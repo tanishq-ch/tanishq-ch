@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq-ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq-ch&theme=dark&hide_border=false" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq-ch&theme=dark&hide_border=false" alt="GitHub Stats" /></p>
