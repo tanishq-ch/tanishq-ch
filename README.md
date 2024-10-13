@@ -30,7 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=tanishq-ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanishq-ch&theme=dark&hide_border=false)<br/>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tanishq-ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact "/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></p>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tanishq-ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq-ch&show_icons=true&locale=en" alt="GitHub Stats" /></p>
