@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Chauhan</h1>
 <h3 align="center">A Data Science, Machine Learning & AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq-ch&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq-ch" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanishq-ch)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq-ch&theme=onedark" alt="tanishq-ch" /></a> </p>
 
