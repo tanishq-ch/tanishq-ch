@@ -2,7 +2,7 @@
 <h3 align="center">A Data Science, Machine Learning & AI Enthusiast</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanishq-ch)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanishq-ch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq-ch&theme=onedark" alt="tanishq-ch" /></a> </p>
 
 - 🔭 I’m currently working on **a Generative AI project**
