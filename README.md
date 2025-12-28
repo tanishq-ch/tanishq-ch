@@ -374,6 +374,6 @@ Feel free to reach out for collaborations or just a friendly chat about AI/ML!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq--chauhan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishq-ch)
 
-**Last Updated:** December 2024 | **Status:** 🟢 Open to opportunities
+**Last Updated:** December 2025 | **Status:** 🟢 Open to opportunities
 
 </div>
