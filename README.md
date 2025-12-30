@@ -215,8 +215,8 @@ Feel free to reach out for collaborations or just a friendly chat about AI/ML!
 <div align="center">
   
 ### 🎯 LeetCode Stats
-<a href="https://leetcode.com/u/_t_c_--toshu--/">
-  <img src="https://leetcard.jacoblin.cool/_t_c_--toshu--?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/u/__Tanishq--T_C/">
+  <img src="https://leetcard.jacoblin.cool/__Tanishq--T_C?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
 ### 📊 Coding Profiles
@@ -224,10 +224,10 @@ Feel free to reach out for collaborations or just a friendly chat about AI/ML!
   <a href="https://www.codechef.com/users/tanishq_tc">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-  <a href="https://leetcode.com/u/_t_c_--toshu--/">
+  <a href="https://leetcode.com/u/__Tanishq--T_C">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.kaggle.com/tanishqchauhanalpha">
+  <a href="https://www.kaggle.com/toshuuu)">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
@@ -246,7 +246,7 @@ Feel free to reach out for collaborations or just a friendly chat about AI/ML!
     <td width="50%">
       <h3 align="center">🤖 Generative AI Projects</h3>
       <div align="center">  
-        <a href="https://github.com/tanishq-ch">
+        <a href="https://github.com/tanishq-ch/DocuCast-AI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishq-ch&repo=tanishq-ch&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
         </a>
         <p>
