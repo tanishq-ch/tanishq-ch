@@ -166,7 +166,6 @@ Feel free to reach out for collaborations or just a friendly chat about AI/ML!
 ---
 
 ## 📊 GitHub Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanishq-ch&theme=highcontrast)](https://git.io/streak-stats)
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishq-ch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
