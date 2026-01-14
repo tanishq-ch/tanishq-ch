@@ -60,7 +60,7 @@ class DataScientist:
         self.name = "Tanishq Chauhan"
         self.role = "ML Engineer & AI Developer"
         self.language_spoken = ["en_IN", "hi_IN"]
-        self.location = "Narnaund, Haryana, IN"
+        self.location = "Noida, Uttar Pradesh, IN"
         
     def current_work(self):
         return {
